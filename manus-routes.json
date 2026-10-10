@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Data, Cloud & Applied AI · Kibaru Consulting" },
+    { "path": "/services", "title": "Services · Kibaru Consulting" },
+    { "path": "/ressources", "title": "Business resources · Kibaru Consulting" },
+    { "path": "/prompts", "title": "Business prompts · Kibaru Consulting" },
+    { "path": "/insights", "title": "Insights · Kibaru Consulting" }
+  ]
+}
